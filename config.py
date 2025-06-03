@@ -10,6 +10,6 @@ MAX_TASKS_PER_ROUND = 3
 LOCATIONS = ["площадь", "больница", "реанимация", "морг", "кладбище"]
 
 class BotConfig:
-    TOKEN = "8003794444:AAGV-oHUkiDq2bDkDrBGR7gH9mszyVrRjBg"
+    TOKEN = "TOKEN"
     ADMIN_IDS = [123456789]
     bot: 'Bot' = None
